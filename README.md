@@ -27,3 +27,4 @@ Employd is a comprehensive employee clock-in service that simplifies employee ma
    - Employd maintains a detailed record of all clock-in/clock-out activities, allowing for accurate tracking of working hours.
 
 ---
+Created for Grade 12 Computer Science Final Assignment
